@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lb2</string>
+    <string-array name="calcMode">
+        <item>Расход на 100 км</item>
+        <item>Расход на 1000 км</item>
+    </string-array>
+</resources>
